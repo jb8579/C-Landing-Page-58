@@ -1,0 +1,1054 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 1200px) and (max-width: 1279px) {
+.container {
+    padding: 0 30px;
+}
+
+
+
+.bigwinlty-part {
+    background-image: initial;
+}
+
+
+.mbbigwinlty-part {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.reviewsbox {
+    width: 100%;
+}
+
+.footer-nav ul li a {
+    font-size: 15px;
+}
+
+.footer-nav ul li {
+    padding-right: 34px;
+}
+
+.footerlogos ul li {
+    margin-right: 16px;
+}
+
+.footerlogos ul li a img {
+    height: 53px;
+}
+
+.topbg {
+    max-width: 37%;
+}
+
+.latesthotrlsleft-text {
+    height: 445px;
+}
+
+.latesthotrlsrt-item {
+    gap: 40px;
+    border-radius: 20px;
+    padding: 30px 45px;
+}
+
+.latesthotrlsrt-right ul li {
+    font-size: 16px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 2px;
+}
+
+.latesthotrlsrt-text p {
+    font-size: 15px;
+}
+
+.joinwinners-left p br {
+    display: none;
+}
+
+}
+
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+.container {
+    padding: 0 30px;
+}
+
+.bigwinlty-part {
+    background-image: initial;
+}
+
+
+.mbbigwinlty-part {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.reviewsbox {
+    width: 100%;
+}
+
+.footer-nav ul li a {
+    font-size: 15px;
+}
+
+.footer-nav ul li {
+    padding-bottom: 39px;
+}
+
+.footer-nav ul li {
+    padding-right: 35px;
+}
+
+.footerlogos ul li {
+    margin-right: 3px;
+}
+
+.footerlogos ul li a img {
+    height: 53px;
+}
+
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 48%;
+}
+
+
+.heropart {
+    gap: 40px;
+}
+
+.lifeLotteryoe-left p {
+    text-align: justify;
+}
+
+.latesthotrls-part {
+    display: block;
+}
+
+.latesthotrlsleft-text {
+    height: initial;
+    margin-bottom: 40px;
+}
+
+.latesthotrls-left {
+    width: 100%;
+}
+
+.latesthotrls-right {
+    width: 100%;
+}
+
+.givefeedback-btn a {
+    font-size: 20px;
+    width: 281px;
+    height: 54px;
+    display: block;
+    line-height: 54px;
+    margin: auto;
+    margin-right: 0;
+}
+
+.ziehharmonika > div {
+    padding: 16px 30px;
+    padding-top: 0px;
+}
+
+
+.newhero-part {
+    gap: 60px;
+}
+
+.lifeLotteryoe-box {
+    padding: 0 10px;
+}
+
+.lifeLotteryoe-boxs {
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 18px;
+}
+
+
+.lifeLotteryoeitem {
+    padding-right: 35px;
+}
+
+.latesthotrlsrt-box {
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 30px;
+    grid-column-gap: 30px;
+}
+
+.latesthotrlsrt-item {
+    padding: 32px 35px;
+}
+
+.joinwinners-left p br {
+    display: none;
+}
+
+.playreviews-part {
+    grid-column-gap: 20px;
+}
+
+
+.reviewsboxoitem-text p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 24px;
+}
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+.container {
+    padding: 0 30px;
+}
+
+
+.bigwinlty-part {
+    background-image: initial;
+    display: block;
+}
+
+.bigwinlty-left {
+    width: 100%;
+    margin-bottom: 60px;
+}
+
+.mbbigwinlty-part {
+    background-position: bottom;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footerlogos ul li {
+    margin-right: 20px;
+}
+
+.footerlogos ul li a img {
+    height: 75px;
+}
+
+.footer-nav ul {
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding-bottom: 0px;
+    margin: 0 0px;
+}
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 58%;
+}
+
+.heropart {
+    display: block;
+}
+
+.latesthotrls-part {
+    display: block;
+}
+
+.latesthotrls-left {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.latesthotrlsleft-text {
+    height: initial;
+}
+
+.latesthotrls-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-item {
+    padding: 30px;
+    gap: 30px;
+}
+
+.latesthotrlsrt-right ul li {
+    font-size: 16px;
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    margin-right: 2px;
+}
+
+.latesthotrlsrt-right ul {
+    text-align: center;
+}
+
+.reviewsbox {
+    width: 100%;
+}
+
+.playreviews-area {
+    padding: 80px 0;
+}
+
+.faq-heading h2 br {
+    display: none;
+}
+
+.ziehharmonika > div {
+    font-size: 15px;
+    line-height: 27px;
+    padding: 16px 30px;
+    padding-top: 3px;
+}
+
+.footerlogos ul {
+    padding-top: 0px;
+}
+
+.newhero-heading h2 {
+    font-size: 40px;
+    line-height: 41px;
+    padding-bottom: 25px;
+}
+
+.newhero-heading p {
+    font-size: 16px;
+}
+
+.newheroitem1 h3 {
+    font-size: 20px;
+    line-height: 28px;
+    padding-bottom: 18px;
+}
+
+.newheroitem1 p {
+    font-size: 16px;
+}
+
+.newheroitem1 h5 {
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom: 18px;
+}
+
+.heropart h1 {
+    font-size: 60px;
+    line-height: 75px;
+}
+
+
+.lifeLotteryoe-left h2 {
+    font-size: 30px;
+}
+
+.lifeLotteryoe-box {
+    padding: 0 0px;
+}
+
+
+.lifeLotteryoe-boxs {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+
+.lifeLotteryoe-area {
+    padding-bottom: 80px;
+}
+
+
+.latesthotrlsrt-text h2 {
+    text-align: center;
+}
+
+.latesthotrlsrt-text p {
+    text-align: center;
+}
+
+
+.joinwinners-left {
+    width: 60%;
+}
+
+.joinwinners-right {
+    width: 40%;
+}
+
+.joinwinners-left p br {
+    display: none;
+}
+
+.joinwinners-right img {
+    height: 250px;
+}
+
+.playreviews-hd p br {
+    display: none;
+}
+
+.playreviews-part {
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    margin-bottom: 0px;
+}
+
+.playreviews-hd {
+    padding-bottom: 40px;
+}
+
+.faq-area {
+    padding: 90px 0;
+    padding-top: 90px;
+}
+
+
+
+}
+
+
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+.topheader-area {
+    padding: 5px 10px;
+}
+
+.topheader-left p {
+    font-size: 10px;
+    margin: 0;
+    font-weight: 600;
+    display: flex;
+    text-align: left;
+    line-height: 13px;
+}
+
+.ziehharmonika > div {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 13px 16px;
+    padding-top: 0px;
+}
+
+
+.header-btn ul li a {
+    font-size: 13px;
+    width: 70px;
+    height: 38px;
+    line-height: 38px;
+    font-weight: 600;
+
+}
+
+.header-btn ul li {
+    padding-left: 5px;
+}
+
+.header-logo {
+    width: 30%;
+}
+
+.header-btn {
+    width: 70%;
+}
+
+.header-btn ul li:nth-child(2) a {
+    width: 80px;
+    height: 36px;
+    line-height: 36px;
+}
+
+.header-btn ul li:nth-child(1) a {
+    font-size: 12px;
+    height: 36px;
+    line-height: 36px;
+    width: 70px;
+}
+
+.header-btn ul li:nth-child(2) a {
+    font-size: 12px;
+}
+
+
+
+.header-logo img {
+    display: block;
+    max-width: 100%;
+}
+
+.playreviews-area {
+    padding: 60px 0;
+    padding-bottom: 35px;
+}
+
+.reviewsbox {
+    padding: 35px 20px;
+    width: 100%;
+    border: 1px solid #aaaaaa66;
+}
+
+.playreviews-right {
+    width: 100%;
+    position: relative;
+}
+
+.faq-area {
+    position: relative;
+}
+
+
+.ziehharmonika h3 {
+    font-size: 16px;
+    padding: 17px 16px;
+    margin-bottom: 10px;
+}
+
+.ziehharmonika .collapseIcon img {
+    max-width: 76%;
+}
+
+.ziehharmonika .collapseIcon {
+    right: 12px;
+}
+
+.faq-heading h2 {
+    font-size: 21px;
+    line-height: 40px;
+}
+
+.faq-heading {
+    padding-bottom: 25px;
+}
+
+.footer-area {
+    padding: 40px 0;
+    padding-bottom: 0px;
+}
+
+.footer-part {
+    display: block;
+}
+
+.footertext {
+    padding-top: 0px;
+}
+
+.footertext p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 27px;
+    padding-bottom: 12px;
+}
+
+.footertext p br {
+    display: none;
+}
+
+.footerlogos ul {
+    padding-top: 15px;
+    text-align: left;
+    padding-bottom: 35px;
+}
+
+.footerlogos ul li {
+    display: inline-block;
+    margin-right: 2px;
+    padding-bottom: 0px;
+}
+
+.footerlogos ul li a img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    height: 37px;
+}
+
+.footer-nav ul {
+    padding-top: 25px;
+    padding-bottom: 0px;
+}
+
+.footer-nav ul li {
+    display: inline-block;
+    padding-right: 8px;
+    padding-bottom: 25px;
+}
+
+.footer-nav ul li a {
+    font-size: 14px;
+}
+
+.footer-copyright {
+    padding: 12px 5px;
+    margin-top: 10px;
+}
+
+.footer-copyright p {
+    font-size: 12px;
+}
+
+.rbmeftpd-right p a {
+    font-size: 12px;
+}
+
+.topbg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    max-width: 80%;
+}
+
+.container {
+    padding: 0 16px;
+}
+
+
+.hero-area {
+    padding: 40px 0;
+}
+
+.heropart {
+    display: block;
+}
+
+.lifeLotteryoe-area {
+    padding: 40px 0;
+}
+
+.lifeLotteryoe-left h2 {
+    font-size: 22px;
+    line-height: 30px;
+    padding-bottom: 15px;
+}
+
+.lifeLotteryoe-box {
+    padding: 0 0px;
+}
+
+.lifeLotteryoe-left p {
+    font-size: 14px;
+    line-height: 28px;
+    margin: 0;
+    text-align: center;
+}
+
+.lifeLotteryoe-left {
+    padding-bottom: 40px;
+}
+
+.lifeLotteryoeitem {
+    padding: 20px 15px;
+    border-radius: 15px;
+    height: 106px;
+    padding-right: 15px;
+}
+
+.lifeLotteryoeitem h3 {
+    font-size: 17px;
+    margin: 0;
+    line-height: 26px;
+}
+
+.lifeLotteryoeitem p {
+    font-size: 12px;
+    line-height: 20px;
+    padding-top: 0px;
+}
+
+.lifeLotteryoe-boxs {
+    grid-row-gap: 20px;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.lifeLotteryoeitem img {
+    height: 80px;
+}
+
+.latesthotrls-area {
+    padding: 40px 0;
+}
+
+.latesthotrls-part {
+    display: block;
+}
+
+.latesthotrls-left {
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+.latesthotrlsleft-text {
+    height: initial;
+}
+
+.latesthotrlsleft-text h2 {
+    font-size: 24px;
+    margin: 0;
+    line-height: 39px;
+    padding-bottom: 12px;
+}
+
+.latesthotrlsleft-text p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.latesthotrls-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-item {
+    display: block;
+    border-radius: 15px;
+    padding: 30px 15px;
+    height: initial;
+}
+
+.latesthotrlsrt-text {
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.latesthotrlsrt-right {
+    width: 100%;
+}
+
+.latesthotrlsrt-text h2 {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.latesthotrlsrt-text p {
+    font-size: 14px;
+    line-height: 24px;
+    padding-top: 8px;
+    text-align: center;
+}
+
+
+.latesthotrlsrt-right ul li {
+    font-size: 13px;
+    width: 27px;
+    height: 27px;
+    line-height: 27px;
+    margin-right: 0px;
+    margin: 0 1px;
+}
+
+.latesthotrlsrt-right ul {
+    text-align: center;
+    padding-top: 0px;
+}
+
+.latesthotrlsrt-box {
+    grid-row-gap: 25px;
+}
+
+.responsiblegambling-part h2 {
+    font-size: 25px;
+    line-height: 35px;
+    padding-bottom: 20px;
+}
+
+
+.responsiblegambling-part p {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 23px;
+    padding-bottom: 15px;
+}
+
+.responsiblegambling-part p br {
+    display: none;
+}
+
+.popupform-hd h2 {
+    font-size: 28px;
+}
+
+.popupform-hd {
+    padding-bottom: 18px;
+}
+
+.newherott-area {
+    padding: 40px 0;
+}
+
+
+.newhero-right {
+    width: 100%;
+}
+
+.newhero-heading h2 {
+    font-size: 30px;
+    line-height: 35px;
+    padding-bottom: 16px;
+}
+
+.newhero-heading p {
+    font-size: 16px;
+}
+
+
+.newhero-heading {
+    padding-bottom: 40px;
+}
+
+.newheroitem1 h3 {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    padding-bottom: 14px;
+}
+
+.newheroitem1 p {
+    font-size: 15px;
+    margin: 0;
+    line-height: 25px;
+    font-weight: 400;
+}
+
+.newheroitem1 p br {
+    display: none;
+}
+
+.newheroitem1 h5 {
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.heropart {
+    background-image: inherit;
+    padding: 80px 20px;
+    padding-top: 80px;
+    border-radius: 20px;
+}
+
+.heropart h1 {
+    font-size: 39px;
+    line-height: 52px;
+    padding-bottom: 18px;
+}
+
+.heropart p br {
+    display: none;
+}
+
+.heropart p {
+    font-size: 12px;
+    line-height: 25px;
+}
+
+.heropart a {
+    font-size: 14px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-top: 22px;
+}
+
+
+.joinwinners-area {
+    padding: 45px 0;
+    padding-bottom: 0px;
+}
+
+.joinwinners-part {
+    display: block;
+    border-radius: 20px;
+    box-sizing: border-box;
+    padding: 40px 25px;
+}
+
+.joinwinners-left {
+    width: 100%;
+}
+
+.joinwinners-right {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.joinwinners-left h2 {
+    font-size: 25px;
+    line-height: 35px;
+    padding-bottom: 12px;
+}
+
+.joinwinners-left h6 {
+    font-size: 16px;
+    padding-bottom: 15px;
+    line-height: 26px;
+}
+
+.joinwinners-left p {
+    font-size: 14px;
+    margin: 0;
+    font-weight: 300;
+    line-height: 22px;
+}
+
+.joinwinners-left a {
+    font-size: 14px;
+    font-weight: bold;
+    width: 130px;
+    height: 40px;
+    display: block;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.joinwinners-right img {
+    height: 240px;
+}
+
+.playreviews-hd h2 {
+    font-size: 25px;
+    padding-bottom: 18px;
+    text-align: center;
+}
+
+.playreviews-hd p br {
+    display: none;
+}
+
+.playreviews-hd p {
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 400;
+}
+
+.playreviews-hd {
+    padding-bottom: 35px;
+}
+
+
+.playreviews-part {
+    grid-template-columns: repeat(1, 1fr);
+    grid-column-gap: 29px;
+    grid-row-gap: 22px;
+    margin-bottom: -204px;
+}
+
+.reviewsboxoitem-text p {
+    font-size: 14px;
+    margin: 0;
+    line-height: 24px;
+}
+
+.reviewsbox-rating p {
+    font-size: 16px;
+    padding-top: 21px;
+    padding-bottom: 23px;
+}
+
+.reviewsbox-rating p img {
+    height: 20px;
+    display: block;
+    margin-left: 8px;
+    padding-top: 1px;
+}
+
+.faq-area {
+    padding-top: 215px;
+    padding-bottom: 40px;
+}
+
+.form-area {
+    padding: 40px 0px;
+    padding-top: 40px;
+}
+
+.formbox {
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding: 40px 20px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+}
+
+.checkboxpart br {
+    display: none;
+}
+
+.formheading h2 {
+    font-size: 34px;
+}
+
+.fromitems p {
+    font-size: 12px;
+}
+
+.checkboxpart {
+    user-select: none;
+    font-size: 12px;
+}
+
+.fromitem3 h6 {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.fromitem3 {
+    padding-top: 14px;
+}
+
+.maincheckbox {
+    padding-bottom: 40px;
+}
+
+.forgotps p a {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.fromitems h5 {
+    font-size: 14px;
+}
+
+
+
+
+}
